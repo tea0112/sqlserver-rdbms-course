@@ -1,2 +1,0 @@
-select GETDATE()
-GO
